@@ -40,3 +40,8 @@ Step 3: Configure a static website on amazon S3
 - Select objects(index.html and assets folder)
 - Actions: Make public ACL
 ![Make-Public](https://github.com/user-attachments/assets/8f1a0442-eeb2-4fc0-9813-dcff0f1818b0)
+
+- Object URL
+- https://kitsosenwedi-project.s3.af-south-1.amazonaws.com/index.html
+
+![object url](https://github.com/user-attachments/assets/a06af71e-95ea-40fe-a89f-ba6ffe00198c)
